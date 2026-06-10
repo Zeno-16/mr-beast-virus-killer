@@ -11,9 +11,10 @@ This project will include blockers, scanners, cleaners, anti-viruses and more </
 - Toggle all drives to be scanned
 - Toggle all options on: Scan memory objects, Scan registry and startup items, Scan within archives, Scan for rootkits & Treat detections as malware on both options
 - Turn off WiFi before clicking scan to prevent RATs ending the scan or duplicating themselves
-https://cdn.discordapp.com/attachments/1513935060494192730/1514326158936637440/image.png?ex=6a2af5a3&is=6a29a423&hm=08657e69b05e2d878edd536279398ea9369628e1a831d305c938ddb947223e6a&
-https://cdn.discordapp.com/attachments/1513935060494192730/1514326219816964126/image.png?ex=6a2af5b1&is=6a29a431&hm=00a9be42a0fd15afe823de4537c0ba63ce17d50bf1d000238238e3e9a19854de&
-https://cdn.discordapp.com/attachments/1513935060494192730/1514326093488980099/image.png?ex=6a2af593&is=6a29a413&hm=84c7524c454cfa9f0f99b4d31eceb13a109dad8d6897e2424498413e4ac5d4d1&
+<img width="838" height="381" alt="image" src="https://github.com/user-attachments/assets/ca377c63-e4cf-4cd0-a61f-0c383e519d7d" />
+<img width="786" height="271" alt="image" src="https://github.com/user-attachments/assets/e4af2a76-54b1-454c-8a17-484137c21a52" />
+<img width="667" height="225" alt="image" src="https://github.com/user-attachments/assets/5f0af1e2-9670-4e64-86e2-a1f732c8212c" />
+<img width="784" height="581" alt="image" src="https://github.com/user-attachments/assets/db661fe7-816e-4f9d-aac7-db59407aa9cc" />
 
 ### EXO Blocker
 <sup> A simple .bat file to block a domain or IP from being accessed by any programs </sup>
