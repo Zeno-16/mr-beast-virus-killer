@@ -20,5 +20,5 @@ This project will include blockers, scanners, cleaners, anti-viruses and more </
 - EXO Blocker will block the domain or IP and flush dns
 
 ### Defendrix
-<sup> A custom kernel anti-virus built to detect persistent programs and low-level RATs quickly </sup>
+<sup> A custom kernel anti-virus built to detect persistent programs and low-level RATs [Remote Access Trojan] quickly </sup>
 - More information coming soon as it has not released yet
