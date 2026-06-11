@@ -101,7 +101,7 @@ def main():
     print("=" * 60)
     print(" vcxproj and csproj rats cleaner")
     print(" Made by Nam and Trong")
-      print(" Reminder: After you cleaned the rats use this or it will comeback!")
+    print(" Reminder: After you cleaned the rats use this or it will comeback!")
     print("=" * 60)
 
     drives_to_scan = [
