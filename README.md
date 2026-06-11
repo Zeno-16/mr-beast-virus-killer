@@ -26,3 +26,5 @@ This project will include blockers, scanners, cleaners, anti-viruses and more </
 ### Defendrix
 <sup> A custom kernel anti-virus built to detect persistent programs and low-level RATs [Remote Access Trojan] quickly </sup>
 - More information coming soon as it has not released yet
+### vcxproj & csproj rat remover
+<sup> A custom python file that scan all your disk (C,D,E) you can change in the source code,it will open with admin permission and scan the malicious strings in prebuild event which is thier main way to infecting thier stealer and logging account,but this tools is the best when you blocked and cleaned the Rats/virus so it cant comeback!
