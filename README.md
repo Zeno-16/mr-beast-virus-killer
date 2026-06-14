@@ -3,8 +3,7 @@
 This project will include blockers, scanners, cleaners, anti-viruses and more </sup>
 
 ### MalwareBytes Tutorial
-- Download and install malwarebytes
-<sup> [MalwareBytes](https://www.malwarebytes.com/mwb-download/thankyou) </sup>
+- Download and install [MalwareBytes](https://www.malwarebytes.com/mwb-download/thankyou)
 - On the Scanner section click the 3 dots
 - Select Advanced Scan
 - Select Custom Scan
